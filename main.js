@@ -133,6 +133,7 @@ btnSatrt.onclick = function () {
     finish.style.display = "none"
     scoreGot.innerHTML = "0"
     timeLeft.innerHTML = TimeLeft
+    gamelvl.style.display = "none"
 }
 
 theinput.onpaste = function (){
